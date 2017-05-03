@@ -28,7 +28,7 @@
 - (IBAction)alertAction:(UIButton *)sender {
     switch (sender.tag) {
         case 10: {
-            LCAlertView *alert = [[LCAlertView alloc]initWithMessage:@"为保证资金安全，请先实名认证" cancelButtonTitle:@"知道了" otherButtonTitle:@"实名认证" usingBlockWhenTapButton:^(LCAlertView *alertView, NSInteger buttonIndex) {
+            LCAlertView *alert = [[LCAlertView alloc]initWithMessage:@"为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。为保证资金安全，请先实名认证。" cancelButtonTitle:@"知道了" otherButtonTitle:@"实名认证" usingBlockWhenTapButton:^(LCAlertView *alertView, NSInteger buttonIndex) {
                 if (buttonIndex == 0) {
                     NSLog(@"取消认证");
                     
@@ -41,7 +41,7 @@
             [alert show];
         }break;
         case 11: {
-            LCAlertView *alert = [[LCAlertView alloc]initWithMessage:@"什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊" cancelButtonTitle:@"线下支付" otherButtonTitle:@"扫码支付" usingBlockWhenTapButton:^(LCAlertView *alertView, NSInteger buttonIndex) {
+            LCAlertView *alert = [[LCAlertView alloc]initWithMessage:@"什么什么啊" cancelButtonTitle:@"线下支付" otherButtonTitle:@"扫码支付" usingBlockWhenTapButton:^(LCAlertView *alertView, NSInteger buttonIndex) {
                 if (buttonIndex == 0) {
                     
                 } else if (buttonIndex == 1) {
