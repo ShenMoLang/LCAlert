@@ -26,6 +26,7 @@
 		439AC5AF1EB98009008A8B2F /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 439AC5A21EB98009008A8B2F /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		439AC5B01EB98009008A8B2F /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 439AC5A41EB98009008A8B2F /* View+MASAdditions.m */; };
 		439AC5B11EB98009008A8B2F /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 439AC5A71EB98009008A8B2F /* ViewController+MASAdditions.m */; };
+		439AC5B31EB98AC0008A8B2F /* test.gif in Resources */ = {isa = PBXBuildFile; fileRef = 439AC5B21EB98AC0008A8B2F /* test.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		439AC5A51EB98009008A8B2F /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		439AC5A61EB98009008A8B2F /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		439AC5A71EB98009008A8B2F /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
+		439AC5B21EB98AC0008A8B2F /* test.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = test.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 		439AC54C1EB97C21008A8B2F = {
 			isa = PBXGroup;
 			children = (
+				439AC5B21EB98AC0008A8B2F /* test.gif */,
 				439AC58E1EB98009008A8B2F /* Masonry */,
 				439AC58B1EB97FD8008A8B2F /* LCAlertView.h */,
 				439AC58C1EB97FD8008A8B2F /* LCAlertView.m */,
@@ -319,6 +322,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				439AC5B31EB98AC0008A8B2F /* test.gif in Resources */,
 				439AC5681EB97C21008A8B2F /* LaunchScreen.storyboard in Resources */,
 				439AC5651EB97C21008A8B2F /* Assets.xcassets in Resources */,
 				439AC5631EB97C21008A8B2F /* Main.storyboard in Resources */,
