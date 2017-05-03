@@ -41,7 +41,7 @@
             [alert show];
         }break;
         case 11: {
-            LCAlertView *alert = [[LCAlertView alloc]initWithMessage:@"什么什么啊" cancelButtonTitle:@"线下支付" otherButtonTitle:@"扫码支付" usingBlockWhenTapButton:^(LCAlertView *alertView, NSInteger buttonIndex) {
+            LCAlertView *alert = [[LCAlertView alloc]initWithMessage:@"什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊什么什么啊" cancelButtonTitle:@"线下支付" otherButtonTitle:@"扫码支付" usingBlockWhenTapButton:^(LCAlertView *alertView, NSInteger buttonIndex) {
                 if (buttonIndex == 0) {
                     
                 } else if (buttonIndex == 1) {
